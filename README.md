@@ -18,4 +18,5 @@ BaoStock，沪深300前50只成分股，2023-2024年日频数据。
 
 ## 文件说明
 - `factor_backtest.ipynb`：完整代码
+- `factor_backtest.py`：完整代码.py版本（整理后的可运行脚本）
 - `factor_report.png`：回测结果图
